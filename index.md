@@ -1,4 +1,4 @@
 ---
 title: AlgoTehcniq
-redirect_to: http://www.algotechniq.com
+redirect_to: https://www.algotechniq.com
 ---
